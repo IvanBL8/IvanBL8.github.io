@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Kaladin Stormblessed",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "Shallan Davar",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "Vin",
+        "book": "Mistborn",
+        "race": "Humano",
+        "abilities": "Alomancia"
+    },
+    {
+        "name": "Kelsier",
+        "book": "Mistborn",
+        "race": "Humano",
+        "abilities": "Alomancia"
+    },
+    {
+        "name": "Marasi",
+        "book": "Mistborn",
+        "race": "Humano",
+        "abilities": "Alomancia"
+    },
+    {
+        "name": "Adolin Kholin",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Ninguna conocida"
+    },
+    {
+        "name": "Dalinar Kholin",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "Sazed",
+        "book": "Mistborn",
+        "race": "Humano",
+        "abilities": "Ferruquimia"
+    },
+    {
+        "name": "Sondeluz",
+        "book": "Warbreaker",
+        "race": "Retornado (ex-humano)",
+        "abilities": "Alientos"
+    },
+    {
+        "name": "Vivenna",
+        "book": "Warbreaker",
+        "race": "Humano",
+        "abilities": "Alientos"
+    },
+    {
+        "name": "Raoden",
+        "book": "Elantris",
+        "race": "Humano",
+        "abilities": "Manipulación de la AonDor"
+    },
+    {
+        "name": "Sarene",
+        "book": "Elantris",
+        "race": "Humano",
+        "abilities": "Ninguna conocida"
+    },
+    {
+        "name": "Siri",
+        "book": "Warbreaker",
+        "race": "Humano",
+        "abilities": "Alientos"
+    },
+    {
+        "name": "Lift",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "TenSoon",
+        "book": "Mistborn",
+        "race": "Kandra",
+        "abilities": "Kandra"
+    },
+    {
+        "name": "Szeth-son-son-Vallano",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "Navani Kholin",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+    {
+        "name": "Hoid",
+        "book": "Varios",
+        "race": "Humano",
+        "abilities": "Muchas"
+    },
+    {
+        "name": "Jasnah Kholin",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Radianza"
+    },
+
+    {
+        "name": "Khriss",
+        "book": "Arena Blanca",
+        "race": "Humano",
+        "abilities": "Muchas"
+    },
+    {
+        "name": "Mraize",
+        "book": "Stormlight Archive",
+        "race": "Humano",
+        "abilities": "Ninguna conocida"
+    },
+
+    {
+        "name": "Brisa",
+        "book": "Mistborn",
+        "race": "Humano",
+        "abilities": "Alomancia"
+    }
+]
+
