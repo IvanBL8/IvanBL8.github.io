@@ -17,14 +17,6 @@ body {
     }
 }
 
-#background-video {
-    position: absolute; /* El video debe estar por debajo del contenido */
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Asegura que el video cubra toda el área sin distorsionarse */
-    z-index: -1; /* Coloca el video detrás de todo el contenido */
 }
 
 
