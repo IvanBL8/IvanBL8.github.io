@@ -12,6 +12,24 @@ const loadCharacters = async () => {
             <td>${character.race}</td>
             <td>${character.abilities}</td>
         `;
+        
+        row.addEventListener('click', () => {
+            const modal = document.getElementById('imageModal');
+            const modalImage = document.getElementById('modalImage');
+            const modalName = document.getElementById('modalName');
+            const modalBook = document.getElementById('modalBook');
+            const modalRace = document.getElementById('modalRace');
+            const modalAbilities = document.getElementById('modalAbilities');
+            
+            modalImage.src = character.image;
+            modalName.textContent = character.name;
+            modalBook.textContent = character.book;
+            modalRace.textContent = character.race;
+            modalAbilities.textContent = character.abilities;
+            
+            modal.style.display = "block"; 
+        });
+
         tableBody.appendChild(row);
     });
 };
@@ -40,5 +58,19 @@ function searchTable() {
         }
     }
 }
+
+const closeModal = () => {
+    const modal = document.getElementById('imageModal');
+    modal.style.display = "none"; // Ocultar el modal
+};
+
+document.querySelector('.close').addEventListener('click', closeModal);
+
+window.addEventListener('click', (event) => {
+    const modal = document.getElementById('imageModal');
+    if (event.target === modal) {
+        closeModal();
+    }
+});
 
 window.onload = loadCharacters;
