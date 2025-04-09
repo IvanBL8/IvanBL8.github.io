@@ -3,135 +3,157 @@
         "name": "Kaladin Stormblessed",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image": "https://uploads.coppermind.net/The_Next_Ideal.png"
     },
     {
         "name": "Shallan Davar",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":"https://uploads.coppermind.net/Whelan_Stormlight_Shallan.jpg"
     },
     {
         "name": "Vin",
         "book": "Mistborn",
         "race": "Humano",
-        "abilities": "Alomancia"
+        "abilities": "Alomancia",
+        "image": "https://uploads.coppermind.net/thumb/The_Heir_of_the_Survivor_-_Miranda_Meeks.jpg/225px-The_Heir_of_the_Survivor_-_Miranda_Meeks.jpg"
     },
     {
         "name": "Kelsier",
         "book": "Mistborn",
         "race": "Humano",
-        "abilities": "Alomancia"
+        "abilities": "Alomancia",
+        "image":"https://uploads.coppermind.net/thumb/Cognitive_Shadow_Kelsier.jpg/800px-Cognitive_Shadow_Kelsier.jpg"
     },
     {
         "name": "Marasi",
         "book": "Mistborn",
         "race": "Humano",
-        "abilities": "Alomancia"
+        "abilities": "Alomancia",
+        "image":"https://uploads.coppermind.net/Marasi_Colms_by_Dan_Watson.jpg"
     },
     {
         "name": "Adolin Kholin",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Ninguna conocida"
+        "abilities": "Ninguna conocida",
+        "image":"https://uploads.coppermind.net/thumb/Adolin_-_VIII._Strength_.jpg/800px-Adolin_-_VIII._Strength_.jpg"
     },
     {
         "name": "Dalinar Kholin",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":"https://uploads.coppermind.net/thumb/SA5_Concept_Art_by_Petar_Penev.jpg/1280px-SA5_Concept_Art_by_Petar_Penev.jpg"
     },
     {
         "name": "Sazed",
         "book": "Mistborn",
         "race": "Humano",
-        "abilities": "Ferruquimia"
+        "abilities": "Ferruquimia",
+    "image":""
     },
     {
         "name": "Sondeluz",
         "book": "Warbreaker",
         "race": "Retornado (ex-humano)",
-        "abilities": "Alientos"
+        "abilities": "Alientos",
+        "image":""
     },
     {
         "name": "Vivenna",
         "book": "Warbreaker",
         "race": "Humano",
-        "abilities": "Alientos"
+        "abilities": "Alientos",
+        "image":""
     },
     {
         "name": "Raoden",
         "book": "Elantris",
         "race": "Humano",
-        "abilities": "Manipulación de la AonDor"
+        "abilities": "Manipulación de la AonDor",
+        "image":""
     },
     {
         "name": "Sarene",
         "book": "Elantris",
         "race": "Humano",
-        "abilities": "Ninguna conocida"
+        "abilities": "Ninguna conocida",
+        "image":""
     },
     {
         "name": "Siri",
         "book": "Warbreaker",
         "race": "Humano",
-        "abilities": "Alientos"
+        "abilities": "Alientos",
+        "image":""
     },
     {
         "name": "Lift",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":""
     },
     {
         "name": "TenSoon",
         "book": "Mistborn",
         "race": "Kandra",
-        "abilities": "Kandra"
+        "abilities": "Kandra",
+        "image":""
     },
     {
         "name": "Szeth-son-son-Vallano",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":""
     },
     {
         "name": "Navani Kholin",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":""
     },
     {
         "name": "Hoid",
         "book": "Varios",
         "race": "Humano",
-        "abilities": "Muchas"
+        "abilities": "Muchas",
+        "image":""
     },
     {
         "name": "Jasnah Kholin",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Radianza"
+        "abilities": "Radianza",
+        "image":""
     },
 
     {
         "name": "Khriss",
         "book": "Arena Blanca",
         "race": "Humano",
-        "abilities": "Muchas"
+        "abilities": "Muchas",
+        "image":""
     },
     {
         "name": "Mraize",
         "book": "Stormlight Archive",
         "race": "Humano",
-        "abilities": "Ninguna conocida"
+        "abilities": "Ninguna conocida",
+        "image":"2"
     },
 
     {
         "name": "Brisa",
         "book": "Mistborn",
         "race": "Humano",
-        "abilities": "Alomancia"
+        "abilities": "Alomancia",
+        "image":""
     }
 ]
 
